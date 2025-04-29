@@ -55,7 +55,7 @@ Here are some sample questions you can try inside the application to understand 
 - 🔹 "List all laptops available in stock."
 - 🔹 "Show me all gaming laptops priced under 2500."
 - 🔹 "Which brand has the most expensive laptop?"
-- 🔹 "Show me all the HP laptops"
+- 🔹 "Show me all the HP branded laptops"
 
 **For MongoDB-related queries:**
 - 🔹 "Show customer reviews for the MacBook Pro M3."
