@@ -77,6 +77,9 @@ Here are some sample questions you can try inside the application to understand 
 5. View the **Generated SQL/MongoDB Query** and **Final Results**.
 6. Results will be displayed in **JSON** format for easy understanding.
 
+   (psql-img.png)
+   (mongo-test.png)
+
 ---
 
 # Key Points to Note
