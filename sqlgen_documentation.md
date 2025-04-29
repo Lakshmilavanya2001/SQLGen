@@ -53,8 +53,9 @@ Here are some sample questions you can try inside the application to understand 
 
 **For PostgreSQL-related queries:**
 - 🔹 "List all laptops available in stock."
-- 🔹 "Show me all gaming laptops under $1500."
+- 🔹 "Show me all gaming laptops under $2500."
 - 🔹 "Which brand has the most expensive laptop?"
+- 🔹 "Show me all the HP laptops"
 
 **For MongoDB-related queries:**
 - 🔹 "Show customer reviews for the MacBook Pro M3."
