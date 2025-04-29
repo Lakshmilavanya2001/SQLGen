@@ -78,7 +78,7 @@ Here are some sample questions you can try inside the application to understand 
 6. Results will be displayed in **JSON** format for easy understanding.
 
    ![SQLGen Architecture](psql-img (2).png)
-   ![SQLGen Architecture](mongo-test.png)
+   ![SQLGen Architecture](mongo-test (1).png)
 
 ---
 
