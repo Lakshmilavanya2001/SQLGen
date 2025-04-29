@@ -1,5 +1,5 @@
 
-# SQLGen Application Documentation
+# SQLGen Application
 
 ---
 
