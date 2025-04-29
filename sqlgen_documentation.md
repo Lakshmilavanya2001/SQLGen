@@ -67,16 +67,15 @@ Here are some sample questions you can try inside the application to understand 
 
 # How to Use SQLGen via Streamlit
 
-1. Launch the application (use `streamlit run your_app.py`).
-2. Open the displayed URL (usually `http://localhost:8501/`) in your **browser**.
-3. Enter your **query** in the text input box.
-4. Click **"Run Query"**.
-5. Wait while the model:
+1. Launch the application in browser.
+2. Enter your **query** in the text input box.
+3. Click **"Run Query"**.
+4. Wait while the model:
    - Retrieves schemas.
    - Determines the database.
    - Generates and executes the query.
-6. View the **Generated SQL/MongoDB Query** and **Final Results**.
-7. Results will be neatly displayed in **JSON** format for easy understanding.
+5. View the **Generated SQL/MongoDB Query** and **Final Results**.
+6. Results will be displayed in **JSON** format for easy understanding.
 
 ---
 
@@ -88,4 +87,4 @@ Here are some sample questions you can try inside the application to understand 
 
 ---
 
-# End of Documentation
+
