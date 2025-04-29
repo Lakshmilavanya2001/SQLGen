@@ -58,8 +58,7 @@ Here are some sample questions you can try inside the application to understand 
 - 🔹 "Show me all the HP branded laptops"
 
 **For MongoDB-related queries:**
-- 🔹 "Show customer reviews for the MacBook Pro M3."
-- 🔹 "What are the specifications of the HP Spectre x360?"
+- 🔹 "Show customer reviews for the laptop with id 4"
 - 🔹 "Find all laptops that have received at least a 4-star rating."
 - 🔹 "Show me all reviews mentioning 'battery life'."
 - 🔹 "Show me all the customer reviews of the laptops with rating 5."
